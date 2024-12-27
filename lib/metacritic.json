@@ -1,0 +1,1455 @@
+{
+    "data": {
+        "id": "0a1571e3-fff2-40f6-86d5-0d924aee53ff",
+        "totalResults": 166205,
+        "items": [
+            {
+                "id": 1300643976,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Annihilation Plan",
+                "slug": "annihilation-plan",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": {
+                    "id": null,
+                    "filename": "6-1-1041018-52.jpg",
+                    "dateCreated": {
+                        "date": null,
+                        "timezone": null
+                    },
+                    "alt": null,
+                    "credits": null,
+                    "path": null,
+                    "cropGravity": null,
+                    "crop": null,
+                    "caption": null,
+                    "typeName": null,
+                    "imageUrl": null,
+                    "width": 460,
+                    "height": 215,
+                    "sType": null,
+                    "bucketType": "catalog",
+                    "bucketPath": "/provider/6/12/6-1-1041018-52.jpg",
+                    "mediaType": null,
+                    "provider": null
+                },
+                "criticScoreSummary": {
+                    "url": "/game/annihilation-plan/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Adventure"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": null,
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300651683,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Tasogare ni Hisomu Fukurou to, Akegata no Subaru",
+                "slug": "tasogare-ni-hisomu-fukurou-to-akegata-no-subaru",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": null,
+                "criticScoreSummary": {
+                    "url": "/game/tasogare-ni-hisomu-fukurou-to-akegata-no-subaru/critic-reviews/",
+                    "max": 100,
+                    "score": 10,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Visual Novel"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": null,
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300654171,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Bad Granny Little Thief",
+                "slug": "bad-granny-little-thief",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": {
+                    "id": null,
+                    "filename": "6-1-1061573-52.jpg",
+                    "dateCreated": {
+                        "date": null,
+                        "timezone": null
+                    },
+                    "alt": null,
+                    "credits": null,
+                    "path": null,
+                    "cropGravity": null,
+                    "crop": null,
+                    "caption": null,
+                    "typeName": null,
+                    "imageUrl": null,
+                    "width": 460,
+                    "height": 215,
+                    "sType": null,
+                    "bucketType": "catalog",
+                    "bucketPath": "/provider/6/12/6-1-1061573-52.jpg",
+                    "mediaType": null,
+                    "provider": null
+                },
+                "criticScoreSummary": {
+                    "url": "/game/bad-granny-little-thief/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Adventure"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": null,
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300636923,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Architect Simulator",
+                "slug": "architect-simulator",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": {
+                    "id": null,
+                    "filename": "6-1-1024899-52.jpg",
+                    "dateCreated": {
+                        "date": null,
+                        "timezone": null
+                    },
+                    "alt": null,
+                    "credits": null,
+                    "path": null,
+                    "cropGravity": null,
+                    "crop": null,
+                    "caption": null,
+                    "typeName": null,
+                    "imageUrl": null,
+                    "width": 460,
+                    "height": 215,
+                    "sType": null,
+                    "bucketType": "catalog",
+                    "bucketPath": "/provider/6/12/6-1-1024899-52.jpg",
+                    "mediaType": null,
+                    "provider": null
+                },
+                "criticScoreSummary": {
+                    "url": "/game/architect-simulator/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Action"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": null,
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300632077,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Human Resource",
+                "slug": "human-resource",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": {
+                    "id": null,
+                    "filename": "6-1-1015052-52.jpg",
+                    "dateCreated": {
+                        "date": null,
+                        "timezone": null
+                    },
+                    "alt": null,
+                    "credits": null,
+                    "path": null,
+                    "cropGravity": null,
+                    "crop": null,
+                    "caption": null,
+                    "typeName": null,
+                    "imageUrl": null,
+                    "width": 460,
+                    "height": 215,
+                    "sType": null,
+                    "bucketType": "catalog",
+                    "bucketPath": "/provider/6/12/6-1-1015052-52.jpg",
+                    "mediaType": null,
+                    "provider": null
+                },
+                "criticScoreSummary": {
+                    "url": "/game/human-resource/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Action"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": null,
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300660465,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "The Escape Room Chronicles ep4:The 24-Hour TV Station",
+                "slug": "the-escape-room-chronicles-ep4the-24-hour-tv",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": {
+                    "id": null,
+                    "filename": "6-1-1074631-52.jpg",
+                    "dateCreated": {
+                        "date": null,
+                        "timezone": null
+                    },
+                    "alt": null,
+                    "credits": null,
+                    "path": null,
+                    "cropGravity": null,
+                    "crop": null,
+                    "caption": null,
+                    "typeName": null,
+                    "imageUrl": null,
+                    "width": 1920,
+                    "height": 1080,
+                    "sType": null,
+                    "bucketType": "catalog",
+                    "bucketPath": "/provider/6/12/6-1-1074631-52.jpg",
+                    "mediaType": null,
+                    "provider": null
+                },
+                "criticScoreSummary": {
+                    "url": "/game/the-escape-room-chronicles-ep4the-24-hour-tv/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Adventure"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": "Discover items and use your wits to solve puzzles in this mystery! Episode 4: Escape from the TV station!\r\n\r\nFor some mysterious reason, the protagonist finds himself in sealed rooms wherever he goes.\r\nSeemingly simple at first, solving the puzzles delivers an unmatched sense of satisfaction.\r\n\r\nEpisode 4\r\nThe stage is set in an actual TV studio!\r\nThe protagonist is working as an assistant on a variety show featuring a famous host. After filming wraps up and the cast heads to the green room, our protagonist finishes packing up only to find that the studio doors won’t open!\r\nAn unexpected escape adventure begins from a world of lights, cameras, and live audiences.\r\n\r\nFeaturing fully refined graphics, immersive interactive elements, and various play modes with multiple endings, this game promises a unique experience for every player. With memo and camera functions at your fingertips, it’s designed to be easy for beginners and exciting for veterans alike. Dive into the world of simple yet addictive puzzle-solving with this thrilling escape game!",
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300660925,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Hentai Tales: Futanari x Monster Girl",
+                "slug": "hentai-tales-futanari-x-monster-girl",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": null,
+                "criticScoreSummary": {
+                    "url": "/game/hentai-tales-futanari-x-monster-girl/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Strategy"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": null,
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300662074,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Sudoku Classic2",
+                "slug": "sudoku-classic2",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": {
+                    "id": null,
+                    "filename": "6-1-1078015-52.jpg",
+                    "dateCreated": {
+                        "date": null,
+                        "timezone": null
+                    },
+                    "alt": null,
+                    "credits": null,
+                    "path": null,
+                    "cropGravity": null,
+                    "crop": null,
+                    "caption": null,
+                    "typeName": null,
+                    "imageUrl": null,
+                    "width": 1920,
+                    "height": 1080,
+                    "sType": null,
+                    "bucketType": "catalog",
+                    "bucketPath": "/provider/6/12/6-1-1078015-52.jpg",
+                    "mediaType": null,
+                    "provider": null
+                },
+                "criticScoreSummary": {
+                    "url": "/game/sudoku-classic2/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Logic Puzzle"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": "Customizable Sudoku with the feel of writing with a pen on paper and the ease of playing a video game.\r\n\r\nIt's a video game, but you can play it as if you were writing with a pen on paper.\r\nYou can customize the assist functions to your liking.\r\n\r\n\r\n● Customize the assist functions and play with the settings you like.\r\n\r\nCustomize the assist functions to play with the settings you like.\r\nWe wanted to retain the feel of playing with pen and paper, but make it easier to play...!\r\n\r\n・Automatically check for incorrect numbers\r\n・Highlight squares with the same number as the selected number\r\n・Highlight squares in the vertical and horizontal columns as the cursor\r\n・Display an effect when the numbers are in order\r\n・Change the design of the lettering\r\n・Display or hide the timer\r\n\r\n...and other assist functions you can turn on/off any way you like.\r\n\r\n\r\n●The game can be played anytime, anywhere, even if it takes a long time.",
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300662959,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Shadow Siege",
+                "slug": "shadow-siege",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": {
+                    "id": null,
+                    "filename": "6-1-1079768-52.jpg",
+                    "dateCreated": {
+                        "date": null,
+                        "timezone": null
+                    },
+                    "alt": null,
+                    "credits": null,
+                    "path": null,
+                    "cropGravity": null,
+                    "crop": null,
+                    "caption": null,
+                    "typeName": null,
+                    "imageUrl": null,
+                    "width": 460,
+                    "height": 215,
+                    "sType": null,
+                    "bucketType": "catalog",
+                    "bucketPath": "/provider/6/12/6-1-1079768-52.jpg",
+                    "mediaType": null,
+                    "provider": null
+                },
+                "criticScoreSummary": {
+                    "url": "/game/shadow-siege/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Third Person Shooter"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": null,
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300663211,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Korean Drone Flying Tour Chuncheon City",
+                "slug": "korean-drone-flying-tour-chuncheon-city",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": {
+                    "id": null,
+                    "filename": "6-1-1080255-52.jpg",
+                    "dateCreated": {
+                        "date": null,
+                        "timezone": null
+                    },
+                    "alt": null,
+                    "credits": null,
+                    "path": null,
+                    "cropGravity": null,
+                    "crop": null,
+                    "caption": null,
+                    "typeName": null,
+                    "imageUrl": null,
+                    "width": 1920,
+                    "height": 1080,
+                    "sType": null,
+                    "bucketType": "catalog",
+                    "bucketPath": "/provider/6/12/6-1-1080255-52.jpg",
+                    "mediaType": null,
+                    "provider": null
+                },
+                "criticScoreSummary": {
+                    "url": "/game/korean-drone-flying-tour-chuncheon-city/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Aircraft Sim"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": "A simulation game where you directly operate a drone based on actual drone flight footage!\r\n\r\nThis game is a drone simulation game that allows you to experience real drone flight based on footage captured by an actual flying drone.\r\nThere is no up, down, left, or right direction manipulation, only manipulation to speed up/slow down the drone's speed.\r\n\r\nEnjoy the beautiful scenery of Chuncheon City, Korea, in a \"Real\" video!\r\nThis production takes place on Chuncheon City.\r\nThere are 10 flight courses, and the total operating time for all courses is more than 60 minutes.\r\n1080P high-definition video faithfully reproduces the atmosphere of real life and provides a strong sense of immersion in the game.\r\nYou can feel like you are a real drone pilot with smooth, realistic video playback.\r\nHuge volume! You can fly to 10 locations showing the beautiful scenery of Chuncheon City!\r\nTwo play modes are supported: section-by-section driving mode and view mode driving.\r\nVisit Korea’s Chuncheon City anytime from home!\r\nEnjoy the drone flight control experience as well as the scenery of Korea's Chuncheon City. ",
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300649218,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Idle Tower Defense",
+                "slug": "idle-tower-defense",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": {
+                    "id": null,
+                    "filename": "6-1-1051271-52.jpg",
+                    "dateCreated": {
+                        "date": null,
+                        "timezone": null
+                    },
+                    "alt": null,
+                    "credits": null,
+                    "path": null,
+                    "cropGravity": null,
+                    "crop": null,
+                    "caption": null,
+                    "typeName": null,
+                    "imageUrl": null,
+                    "width": 460,
+                    "height": 215,
+                    "sType": null,
+                    "bucketType": "catalog",
+                    "bucketPath": "/provider/6/12/6-1-1051271-52.jpg",
+                    "mediaType": null,
+                    "provider": null
+                },
+                "criticScoreSummary": {
+                    "url": "/game/idle-tower-defense/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Defense"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": null,
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300656578,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Sweet Robot",
+                "slug": "sweet-robot",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": {
+                    "id": null,
+                    "filename": "6-1-1066969-52.jpg",
+                    "dateCreated": {
+                        "date": null,
+                        "timezone": null
+                    },
+                    "alt": null,
+                    "credits": null,
+                    "path": null,
+                    "cropGravity": null,
+                    "crop": null,
+                    "caption": null,
+                    "typeName": null,
+                    "imageUrl": null,
+                    "width": 460,
+                    "height": 215,
+                    "sType": null,
+                    "bucketType": "catalog",
+                    "bucketPath": "/provider/6/12/6-1-1066969-52.jpg",
+                    "mediaType": null,
+                    "provider": null
+                },
+                "criticScoreSummary": {
+                    "url": "/game/sweet-robot/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Puzzle"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": "A simple and beautiful puzzle game themed around female robots, with relaxing music accompaniment. After completing the level, you can enjoy the girl's photos in the gallery.",
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300660853,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Fantasy World ~ Dungeon Specialize ~",
+                "slug": "fantasy-world-dungeon-specialize-",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": null,
+                "criticScoreSummary": {
+                    "url": "/game/fantasy-world-dungeon-specialize-/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Action"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": null,
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300660390,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Music of Destiny: Corrupted Dungeons",
+                "slug": "music-of-destiny-corrupted-dungeons",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": {
+                    "id": null,
+                    "filename": "6-1-1074509-52.jpg",
+                    "dateCreated": {
+                        "date": null,
+                        "timezone": null
+                    },
+                    "alt": null,
+                    "credits": null,
+                    "path": null,
+                    "cropGravity": null,
+                    "crop": null,
+                    "caption": null,
+                    "typeName": null,
+                    "imageUrl": null,
+                    "width": 460,
+                    "height": 215,
+                    "sType": null,
+                    "bucketType": "catalog",
+                    "bucketPath": "/provider/6/12/6-1-1074509-52.jpg",
+                    "mediaType": null,
+                    "provider": null
+                },
+                "criticScoreSummary": {
+                    "url": "/game/music-of-destiny-corrupted-dungeons/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Turn-Based Strategy"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": null,
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300662083,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Make It! Oden",
+                "slug": "make-it-oden",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": {
+                    "id": null,
+                    "filename": "6-1-1078034-52.jpg",
+                    "dateCreated": {
+                        "date": null,
+                        "timezone": null
+                    },
+                    "alt": null,
+                    "credits": null,
+                    "path": null,
+                    "cropGravity": null,
+                    "crop": null,
+                    "caption": null,
+                    "typeName": null,
+                    "imageUrl": null,
+                    "width": 1920,
+                    "height": 1080,
+                    "sType": null,
+                    "bucketType": "catalog",
+                    "bucketPath": "/provider/6/12/6-1-1078034-52.jpg",
+                    "mediaType": null,
+                    "provider": null
+                },
+                "criticScoreSummary": {
+                    "url": "/game/make-it-oden/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Action"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": "It's time for a scrumptious oden-making challenge! Make as much as you can and watch your food cart prosper!\r\n\r\nLet's make oden on the Nintendo Switch™!\r\nEvery customer has unique tastes—keep track of each order and don't mess up!\r\nPrepare every order accurately and quickly to keep your customers satisfied!\r\nShare Joy-Con™, and up to 4 players can join in!\r\nReach for the ultimate high score!\r\n\r\n《Rules》\r\nStew the ingredients according to your customer's order!\r\nWatch your ingredients carefully as they simmer—if they sit too long, they'll fall apart!\r\nDish up as much oden as you can to your customers before time runs out!\r\n\r\n《How to Play》\r\n1. Add ingredients to the pots!\r\n\r\n2. Stew the ingredients until their flavors are just right!\r\n\r\n3. When you have all the ingredients ready for an order, serve them up!\r\n\r\n[Score Attack]\r\nCompete on the global leaderboards with your best score!\r\nCook skillfully, fill more and more orders, and achieve a new high score!\r\n\r\n[Battle]\r\nHave an oden-making showdown with up to 4 players!\r\nSpeed and accuracy are the keys to victory!",
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300662182,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Trump Cake Mania",
+                "slug": "trump-cake-mania",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": null,
+                "criticScoreSummary": {
+                    "url": "/game/trump-cake-mania/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Third-Person Adventure"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": null,
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300662177,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Hidden Tomatoes 2",
+                "slug": "hidden-tomatoes-2",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": {
+                    "id": null,
+                    "filename": "6-1-1078145-52.jpg",
+                    "dateCreated": {
+                        "date": null,
+                        "timezone": null
+                    },
+                    "alt": null,
+                    "credits": null,
+                    "path": null,
+                    "cropGravity": null,
+                    "crop": null,
+                    "caption": null,
+                    "typeName": null,
+                    "imageUrl": null,
+                    "width": 460,
+                    "height": 215,
+                    "sType": null,
+                    "bucketType": "catalog",
+                    "bucketPath": "/provider/6/12/6-1-1078145-52.jpg",
+                    "mediaType": null,
+                    "provider": null
+                },
+                "criticScoreSummary": {
+                    "url": "/game/hidden-tomatoes-2/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Hidden Object"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": null,
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300662123,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Sea Bikers Jetski",
+                "slug": "sea-bikers-jetski",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": {
+                    "id": null,
+                    "filename": "6-1-1078090-52.jpg",
+                    "dateCreated": {
+                        "date": null,
+                        "timezone": null
+                    },
+                    "alt": null,
+                    "credits": null,
+                    "path": null,
+                    "cropGravity": null,
+                    "crop": null,
+                    "caption": null,
+                    "typeName": null,
+                    "imageUrl": null,
+                    "width": 460,
+                    "height": 215,
+                    "sType": null,
+                    "bucketType": "catalog",
+                    "bucketPath": "/provider/6/12/6-1-1078090-52.jpg",
+                    "mediaType": null,
+                    "provider": null
+                },
+                "criticScoreSummary": {
+                    "url": "/game/sea-bikers-jetski/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Arcade Racing"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": null,
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300663014,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "2024: Mosaic Retrospective",
+                "slug": "2024-mosaic-retrospective",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": null,
+                "criticScoreSummary": {
+                    "url": "/game/2024-mosaic-retrospective/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Logic Puzzle"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": null,
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300663209,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Kurukuru Mawasou! Houkou Maku Collection for Nintendo Switch - Kinki Nihon Tetsudou-hen part 2",
+                "slug": "kurukuru-mawasou-houkou-maku-collection-for-2024-2",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": null,
+                "criticScoreSummary": {
+                    "url": "/game/kurukuru-mawasou-houkou-maku-collection-for-2024-2/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Train Sim"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": null,
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300203318,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Pizza Pop!",
+                "slug": "pizza-pop",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": null,
+                "criticScoreSummary": {
+                    "url": "/game/pizza-pop/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "2D Platformer"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": null,
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300644348,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Click Me: Hentai Adventures",
+                "slug": "click-me-hentai-adventures",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": {
+                    "id": null,
+                    "filename": "6-1-1041432-52.jpg",
+                    "dateCreated": {
+                        "date": null,
+                        "timezone": null
+                    },
+                    "alt": null,
+                    "credits": null,
+                    "path": null,
+                    "cropGravity": null,
+                    "crop": null,
+                    "caption": null,
+                    "typeName": null,
+                    "imageUrl": null,
+                    "width": 460,
+                    "height": 215,
+                    "sType": null,
+                    "bucketType": "catalog",
+                    "bucketPath": "/provider/6/12/6-1-1041432-52.jpg",
+                    "mediaType": null,
+                    "provider": null
+                },
+                "criticScoreSummary": {
+                    "url": "/game/click-me-hentai-adventures/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Adventure"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": null,
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300661921,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "P.I.",
+                "slug": "pi-2",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": {
+                    "id": null,
+                    "filename": "6-1-1077637-52.jpg",
+                    "dateCreated": {
+                        "date": null,
+                        "timezone": null
+                    },
+                    "alt": null,
+                    "credits": null,
+                    "path": null,
+                    "cropGravity": null,
+                    "crop": null,
+                    "caption": null,
+                    "typeName": null,
+                    "imageUrl": null,
+                    "width": 460,
+                    "height": 215,
+                    "sType": null,
+                    "bucketType": "catalog",
+                    "bucketPath": "/provider/6/12/6-1-1077637-52.jpg",
+                    "mediaType": null,
+                    "provider": null
+                },
+                "criticScoreSummary": {
+                    "url": "/game/pi-2/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Action"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": null,
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            },
+            {
+                "id": 1300477191,
+                "type": "game-title",
+                "typeId": 13,
+                "title": "Curse of Babylon",
+                "slug": "curse-of-babylon",
+                "premiereYear": 2024,
+                "releaseDate": "2024-12-26",
+                "rating": null,
+                "seoUrl": null,
+                "image": {
+                    "id": null,
+                    "filename": "6-1-1080243-52.jpg",
+                    "dateCreated": {
+                        "date": null,
+                        "timezone": null
+                    },
+                    "alt": null,
+                    "credits": null,
+                    "path": null,
+                    "cropGravity": null,
+                    "crop": null,
+                    "caption": null,
+                    "typeName": null,
+                    "imageUrl": null,
+                    "width": 1920,
+                    "height": 1080,
+                    "sType": null,
+                    "bucketType": "catalog",
+                    "bucketPath": "/provider/6/12/6-1-1080243-52.jpg",
+                    "mediaType": null,
+                    "provider": null
+                },
+                "criticScoreSummary": {
+                    "url": "/game/curse-of-babylon/critic-reviews/",
+                    "max": 100,
+                    "score": null,
+                    "reviewCount": 0,
+                    "positiveCount": 0,
+                    "neutralCount": 0,
+                    "negativeCount": 0,
+                    "sentiment": "tbd"
+                },
+                "genres": [
+                    {
+                        "id": null,
+                        "name": "Action"
+                    }
+                ],
+                "numberOfSeasons": 0,
+                "network": null,
+                "description": "A traveler guided by spirits rises to save Babylon. A side-view action RPG where players use body slams and jumps to fight.\r\n\r\nThis is an action RPG released in 1986 in Japan. As a chosen traveler, the player's goal is to defeat the beasts and restore peace to Babylon.\r\n\r\nThe game features a side-view action RPG style. Players attack enemies by dashing into them while utilizing various items (magic) to fight. Depending on your positioning, it's even possible to attack enemies directly above you. Mastering this technique can make battles more efficient. Additionally, the game allows you to adjust the speed across four levels, so if fast-paced action isn't your strong suit, you can play at your preferred pace.\r\n\r\nThere's no money or shop system, and players progress by collecting scattered items and magic across the wide map, offering a simple and accessible gameplay experience. However, weapons and shields are automatically equipped upon discovery, so be sure to compare new items with your current gear before picking them up. If you do accidentally equip the wrong item, you can re-enter the room to re-equip your previous gear, so no worries!\r\n\r\nIn this game, you’ll explore the field, power up with hidden items and magic, and defeat beasts. Despite its simplicity, the smooth action makes for an enjoyable experience.\r\n\r\nFor a nostalgic touch, the game manual even includes plenty of monster illustrations. Looking at these vintage-style images before playing is sure to get you in the right mood!",
+                "duration": 0,
+                "streamingDates": {
+                    "videoClosestPastAvailableDate": null,
+                    "videoClosestFutureAvailableDate": null,
+                    "videoClosestPastExpiryDate": null,
+                    "videoClosestFutureExpiryDate": null,
+                    "videoClosestPastAvailableNetworkId": null,
+                    "videoClosestFutureAvailableNetworkId": null,
+                    "videoClosestPastExpiryNetworkId": null,
+                    "videoClosestFutureExpiryNetworkId": null,
+                    "networkStreamingDates": null
+                }
+            }
+        ],
+        "genres": null,
+        "network": null
+    },
+    "links": {
+        "self": {
+            "href": "https://backend.metacritic.com/finder/metacritic/web?sortBy=-releaseDate&productType=games&page=1&offset=0&limit=24&apiKey=1MOZgmNFxvmljaQR1X9KAij9Mo4xAY3u",
+            "meta": {
+                "pageNum": 1,
+                "count": 24
+            }
+        },
+        "prev": {
+            "href": null,
+            "meta": null
+        },
+        "next": {
+            "href": "https://backend.metacritic.com/finder/metacritic/web?sortBy=-releaseDate&productType=games&page=1&offset=24&limit=24&apiKey=1MOZgmNFxvmljaQR1X9KAij9Mo4xAY3u",
+            "meta": {
+                "pageNum": 2,
+                "count": 24
+            }
+        },
+        "first": {
+            "href": "https://backend.metacritic.com/finder/metacritic/web?sortBy=-releaseDate&productType=games&page=1&offset=0&limit=24&apiKey=1MOZgmNFxvmljaQR1X9KAij9Mo4xAY3u",
+            "meta": {
+                "pageNum": 1,
+                "count": 24
+            }
+        },
+        "last": {
+            "href": "https://backend.metacritic.com/finder/metacritic/web?sortBy=-releaseDate&productType=games&page=1&offset=166200&limit=24&apiKey=1MOZgmNFxvmljaQR1X9KAij9Mo4xAY3u",
+            "meta": {
+                "pageNum": 6926,
+                "count": 5
+            }
+        }
+    },
+    "meta": {
+        "componentName": null,
+        "componentDisplayName": null,
+        "componentType": null
+    }
+}
