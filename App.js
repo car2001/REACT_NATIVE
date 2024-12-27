@@ -4,6 +4,7 @@ import { SafeAreaProvider } from "react-native-safe-area-context";
 
 import Constants from "expo-constants";
 import { Main } from "./components/Main";
+import "./global.css";
 
 
 export default function App() {

@@ -5,7 +5,7 @@ export function GameCard ({ game }) {
   return (
     <View style={styles.card} key={game.slug}>
       <Image source={{ uri: game.image }} style={styles.image} />
-      <Text style={styles.title} >{game.title}</Text>
+      <Text className="text-2xl font-bold text-white" >{game.title}</Text>
       <Text style={styles.description}>{game.description}</Text>
       <Text style={styles.score}>{game.score}</Text>
     </View>
